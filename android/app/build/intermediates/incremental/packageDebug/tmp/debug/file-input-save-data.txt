@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Nov 07 17:41:20 EST 2019
+#Fri Nov 08 10:47:40 EST 2019
 56.path=lib/x86_64/libnative-filters.so
 5.base=/Users/ratkinson/Projects/personal/GeoSpikeApp/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 42.base=/Users/ratkinson/Projects/personal/GeoSpikeApp/android/app/build/intermediates/transforms/mergeJniLibs/debug/0

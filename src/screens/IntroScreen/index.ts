@@ -1,1 +1,3 @@
-export * from './IntroScreen';
+import IntroScreen from "./IntroScreen";
+
+export IntroScreen from './IntroScreen';

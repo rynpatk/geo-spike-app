@@ -5,10 +5,19 @@ INJECTED from /Users/ratkinson/Projects/personal/GeoSpikeApp/android/app/src/mai
 INJECTED from /Users/ratkinson/Projects/personal/GeoSpikeApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /Users/ratkinson/Projects/personal/GeoSpikeApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
 MERGED from /Users/ratkinson/Projects/personal/GeoSpikeApp/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-background-fetch] /Users/ratkinson/Projects/personal/GeoSpikeApp/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-26:12
+MERGED from [tsbackgroundfetch-0.3.3.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/c43024c00d3acafe9b9fe167cd124548/AndroidManifest.xml:2:1-30:12
+MERGED from [:react-native-background-geolocation] /Users/ratkinson/Projects/personal/GeoSpikeApp/node_modules/react-native-background-geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:1:39-40:12
 MERGED from [:react-native-gesture-handler] /Users/ratkinson/Projects/personal/GeoSpikeApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-splash-screen] /Users/ratkinson/Projects/personal/GeoSpikeApp/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
 MERGED from [com.facebook.react:react-native:0.61.4] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/eceee8d059bbf24d81681ed4f997e7a2/AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/73d3bf1414179a86257fbb197815566f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/3684adc2b115a67115ff4a73c169f30b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/98f5a357a6a6399d5c6dc0219d00f475/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/89b4ba9b925e5129420859b7be13264c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/49fe4aa6382c0510440a0ce7545c543e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/5e1b11ca64b1bfb90f668b8d0295c44b/AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.fragment:fragment:1.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/a3527d9d50be9d50948636f3d296f2c0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/6c24c8d83dee5b212281450418a70ad0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/9350f3bbfe06a0e9ec92c05c064d2df2/AndroidManifest.xml:17:1-22:12
@@ -43,6 +52,8 @@ MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/ratkinson/.gradle/c
 MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/c20986bc176b69fbbe2da0d2a1e9f598/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/708fbbd292f9102f4d40f6c8c28f75e2/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/83bd9173b8ef444a3bb1950325fdc403/AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.tony19:logback-android:2.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/33601982dc65059bc436362d957ca32b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.intentfilter:android-permissions:0.1.8] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/89386fc9541296e66a56a2f07e85c51d/AndroidManifest.xml:2:1-18:12
 MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/6e7d7bbf1ee9a76fc4dd6cc6d51588c3/AndroidManifest.xml:2:1-9:12
 INJECTED from /Users/ratkinson/Projects/personal/GeoSpikeApp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
 INJECTED from /Users/ratkinson/Projects/personal/GeoSpikeApp/android/app/src/debug/AndroidManifest.xml:2:1-8:12
@@ -66,22 +77,44 @@ INJECTED from /Users/ratkinson/Projects/personal/GeoSpikeApp/android/app/src/deb
 		ADDED from /Users/ratkinson/Projects/personal/GeoSpikeApp/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
 ADDED from /Users/ratkinson/Projects/personal/GeoSpikeApp/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:10:5-66
+MERGED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:10:5-66
 	android:name
 		ADDED from /Users/ratkinson/Projects/personal/GeoSpikeApp/android/app/src/main/AndroidManifest.xml:4:22-64
 application
 ADDED from /Users/ratkinson/Projects/personal/GeoSpikeApp/android/app/src/main/AndroidManifest.xml:6:5-24:19
 MERGED from /Users/ratkinson/Projects/personal/GeoSpikeApp/android/app/src/main/AndroidManifest.xml:6:5-24:19
 MERGED from /Users/ratkinson/Projects/personal/GeoSpikeApp/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [:react-native-background-fetch] /Users/ratkinson/Projects/personal/GeoSpikeApp/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-24:19
+MERGED from [:react-native-background-fetch] /Users/ratkinson/Projects/personal/GeoSpikeApp/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-24:19
+MERGED from [tsbackgroundfetch-0.3.3.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/c43024c00d3acafe9b9fe167cd124548/AndroidManifest.xml:14:5-28:19
+MERGED from [tsbackgroundfetch-0.3.3.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/c43024c00d3acafe9b9fe167cd124548/AndroidManifest.xml:14:5-28:19
+MERGED from [:react-native-background-geolocation] /Users/ratkinson/Projects/personal/GeoSpikeApp/node_modules/react-native-background-geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-background-geolocation] /Users/ratkinson/Projects/personal/GeoSpikeApp/node_modules/react-native-background-geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:19:5-39:19
+MERGED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:19:5-39:19
 MERGED from [:react-native-splash-screen] /Users/ratkinson/Projects/personal/GeoSpikeApp/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
 MERGED from [:react-native-splash-screen] /Users/ratkinson/Projects/personal/GeoSpikeApp/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
 MERGED from [com.facebook.react:react-native:0.61.4] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/eceee8d059bbf24d81681ed4f997e7a2/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.react:react-native:0.61.4] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/eceee8d059bbf24d81681ed4f997e7a2/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/3684adc2b115a67115ff4a73c169f30b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/3684adc2b115a67115ff4a73c169f30b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/98f5a357a6a6399d5c6dc0219d00f475/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/98f5a357a6a6399d5c6dc0219d00f475/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/89b4ba9b925e5129420859b7be13264c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/89b4ba9b925e5129420859b7be13264c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/49fe4aa6382c0510440a0ce7545c543e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/49fe4aa6382c0510440a0ce7545c543e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/5e1b11ca64b1bfb90f668b8d0295c44b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/5e1b11ca64b1bfb90f668b8d0295c44b/AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.core:core:1.0.1] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/19d5a116304529373c9288c8c9c610d3/AndroidManifest.xml:22:5-89
 MERGED from [androidx.core:core:1.0.1] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/19d5a116304529373c9288c8c9c610d3/AndroidManifest.xml:22:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/9b2172637dfef3249d0c7b8f63648176/AndroidManifest.xml:22:5-23:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/9b2172637dfef3249d0c7b8f63648176/AndroidManifest.xml:22:5-23:19
 MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/83bd9173b8ef444a3bb1950325fdc403/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/83bd9173b8ef444a3bb1950325fdc403/AndroidManifest.xml:11:5-20
+MERGED from [com.intentfilter:android-permissions:0.1.8] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/89386fc9541296e66a56a2f07e85c51d/AndroidManifest.xml:11:5-16:19
+MERGED from [com.intentfilter:android-permissions:0.1.8] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/89386fc9541296e66a56a2f07e85c51d/AndroidManifest.xml:11:5-16:19
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.1] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/19d5a116304529373c9288c8c9c610d3/AndroidManifest.xml:22:18-86
 	android:label
@@ -136,6 +169,14 @@ uses-sdk
 INJECTED from /Users/ratkinson/Projects/personal/GeoSpikeApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/ratkinson/Projects/personal/GeoSpikeApp/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/ratkinson/Projects/personal/GeoSpikeApp/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-background-fetch] /Users/ratkinson/Projects/personal/GeoSpikeApp/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-background-fetch] /Users/ratkinson/Projects/personal/GeoSpikeApp/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [tsbackgroundfetch-0.3.3.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/c43024c00d3acafe9b9fe167cd124548/AndroidManifest.xml:7:5-9:41
+MERGED from [tsbackgroundfetch-0.3.3.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/c43024c00d3acafe9b9fe167cd124548/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-background-geolocation] /Users/ratkinson/Projects/personal/GeoSpikeApp/node_modules/react-native-background-geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-background-geolocation] /Users/ratkinson/Projects/personal/GeoSpikeApp/node_modules/react-native-background-geolocation/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:2:5-73
+MERGED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:2:5-73
 MERGED from [:react-native-gesture-handler] /Users/ratkinson/Projects/personal/GeoSpikeApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-gesture-handler] /Users/ratkinson/Projects/personal/GeoSpikeApp/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-splash-screen] /Users/ratkinson/Projects/personal/GeoSpikeApp/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
@@ -144,6 +185,16 @@ MERGED from [com.facebook.react:react-native:0.61.4] /Users/ratkinson/.gradle/ca
 MERGED from [com.facebook.react:react-native:0.61.4] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/eceee8d059bbf24d81681ed4f997e7a2/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/73d3bf1414179a86257fbb197815566f/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/73d3bf1414179a86257fbb197815566f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/3684adc2b115a67115ff4a73c169f30b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/3684adc2b115a67115ff4a73c169f30b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/98f5a357a6a6399d5c6dc0219d00f475/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/98f5a357a6a6399d5c6dc0219d00f475/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/89b4ba9b925e5129420859b7be13264c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/89b4ba9b925e5129420859b7be13264c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/49fe4aa6382c0510440a0ce7545c543e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/49fe4aa6382c0510440a0ce7545c543e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/5e1b11ca64b1bfb90f668b8d0295c44b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/5e1b11ca64b1bfb90f668b8d0295c44b/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/a3527d9d50be9d50948636f3d296f2c0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/a3527d9d50be9d50948636f3d296f2c0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/6c24c8d83dee5b212281450418a70ad0/AndroidManifest.xml:20:5-44
@@ -212,6 +263,10 @@ MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/ratkinson/.gra
 MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/708fbbd292f9102f4d40f6c8c28f75e2/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/83bd9173b8ef444a3bb1950325fdc403/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/83bd9173b8ef444a3bb1950325fdc403/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tony19:logback-android:2.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/33601982dc65059bc436362d957ca32b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tony19:logback-android:2.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/33601982dc65059bc436362d957ca32b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intentfilter:android-permissions:0.1.8] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/89386fc9541296e66a56a2f07e85c51d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intentfilter:android-permissions:0.1.8] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/89386fc9541296e66a56a2f07e85c51d/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/6e7d7bbf1ee9a76fc4dd6cc6d51588c3/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/6e7d7bbf1ee9a76fc4dd6cc6d51588c3/AndroidManifest.xml:5:5-7:41
 INJECTED from /Users/ratkinson/Projects/personal/GeoSpikeApp/android/app/src/debug/AndroidManifest.xml
@@ -226,3 +281,207 @@ uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from /Users/ratkinson/Projects/personal/GeoSpikeApp/android/app/src/debug/AndroidManifest.xml:5:5-77
 	android:name
 		ADDED from /Users/ratkinson/Projects/personal/GeoSpikeApp/android/app/src/debug/AndroidManifest.xml:5:22-75
+service#com.transistorsoft.rnbackgroundfetch.HeadlessJobService
+ADDED from [:react-native-background-fetch] /Users/ratkinson/Projects/personal/GeoSpikeApp/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:9-17:72
+	android:exported
+		ADDED from [:react-native-background-fetch] /Users/ratkinson/Projects/personal/GeoSpikeApp/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-36
+	android:permission
+		ADDED from [:react-native-background-fetch] /Users/ratkinson/Projects/personal/GeoSpikeApp/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-69
+	android:name
+		ADDED from [:react-native-background-fetch] /Users/ratkinson/Projects/personal/GeoSpikeApp/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-83
+receiver#com.transistorsoft.rnbackgroundfetch.HeadlessBroadcastReceiver
+ADDED from [:react-native-background-fetch] /Users/ratkinson/Projects/personal/GeoSpikeApp/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:9-23:20
+	android:name
+		ADDED from [:react-native-background-fetch] /Users/ratkinson/Projects/personal/GeoSpikeApp/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:19-96
+intent-filter#action:name:${applicationId}.event.BACKGROUND_FETCH
+ADDED from [:react-native-background-fetch] /Users/ratkinson/Projects/personal/GeoSpikeApp/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-22:29
+intent-filter#action:name:com.geospikeapp.event.BACKGROUND_FETCH
+ADDED from [:react-native-background-fetch] /Users/ratkinson/Projects/personal/GeoSpikeApp/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-22:29
+action#${applicationId}.event.BACKGROUND_FETCH
+ADDED from [:react-native-background-fetch] /Users/ratkinson/Projects/personal/GeoSpikeApp/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:17-82
+	android:name
+		ADDED from [:react-native-background-fetch] /Users/ratkinson/Projects/personal/GeoSpikeApp/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:25-79
+action#com.geospikeapp.event.BACKGROUND_FETCH
+ADDED from [:react-native-background-fetch] /Users/ratkinson/Projects/personal/GeoSpikeApp/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:17-82
+	android:name
+		ADDED from [:react-native-background-fetch] /Users/ratkinson/Projects/personal/GeoSpikeApp/node_modules/react-native-background-fetch/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:25-79
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [tsbackgroundfetch-0.3.3.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/c43024c00d3acafe9b9fe167cd124548/AndroidManifest.xml:11:5-81
+MERGED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:13:5-80
+MERGED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from [tsbackgroundfetch-0.3.3.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/c43024c00d3acafe9b9fe167cd124548/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.GET_TASKS
+ADDED from [tsbackgroundfetch-0.3.3.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/c43024c00d3acafe9b9fe167cd124548/AndroidManifest.xml:12:5-68
+MERGED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:14:5-67
+MERGED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from [tsbackgroundfetch-0.3.3.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/c43024c00d3acafe9b9fe167cd124548/AndroidManifest.xml:12:22-65
+receiver#com.transistorsoft.tsbackgroundfetch.FetchAlarmReceiver
+ADDED from [tsbackgroundfetch-0.3.3.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/c43024c00d3acafe9b9fe167cd124548/AndroidManifest.xml:15:9-92
+	android:name
+		ADDED from [tsbackgroundfetch-0.3.3.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/c43024c00d3acafe9b9fe167cd124548/AndroidManifest.xml:15:19-89
+service#com.transistorsoft.tsbackgroundfetch.FetchJobService
+ADDED from [tsbackgroundfetch-0.3.3.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/c43024c00d3acafe9b9fe167cd124548/AndroidManifest.xml:17:9-20:72
+	android:exported
+		ADDED from [tsbackgroundfetch-0.3.3.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/c43024c00d3acafe9b9fe167cd124548/AndroidManifest.xml:19:13-36
+	android:permission
+		ADDED from [tsbackgroundfetch-0.3.3.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/c43024c00d3acafe9b9fe167cd124548/AndroidManifest.xml:20:13-69
+	android:name
+		ADDED from [tsbackgroundfetch-0.3.3.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/c43024c00d3acafe9b9fe167cd124548/AndroidManifest.xml:18:13-80
+receiver#com.transistorsoft.tsbackgroundfetch.BootReceiver
+ADDED from [tsbackgroundfetch-0.3.3.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/c43024c00d3acafe9b9fe167cd124548/AndroidManifest.xml:22:9-27:20
+	android:name
+		ADDED from [tsbackgroundfetch-0.3.3.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/c43024c00d3acafe9b9fe167cd124548/AndroidManifest.xml:22:19-83
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [tsbackgroundfetch-0.3.3.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/c43024c00d3acafe9b9fe167cd124548/AndroidManifest.xml:23:13-26:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [tsbackgroundfetch-0.3.3.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/c43024c00d3acafe9b9fe167cd124548/AndroidManifest.xml:24:17-79
+	android:name
+		ADDED from [tsbackgroundfetch-0.3.3.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/c43024c00d3acafe9b9fe167cd124548/AndroidManifest.xml:24:25-76
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [tsbackgroundfetch-0.3.3.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/c43024c00d3acafe9b9fe167cd124548/AndroidManifest.xml:25:17-84
+	android:name
+		ADDED from [tsbackgroundfetch-0.3.3.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/c43024c00d3acafe9b9fe167cd124548/AndroidManifest.xml:25:25-81
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:3:5-67
+	android:name
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:3:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:4:5-78
+	android:name
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:4:22-76
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:5:5-84
+	android:name
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:5:22-82
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACTIVITY_RECOGNITION
+ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:9:5-88
+	android:name
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:9:22-86
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:11:22-74
+uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
+ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:12:5-93
+	android:name
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:12:22-91
+uses-permission#oppo.permission.OPPO_COMPONENT_SAFE
+ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:16:5-74
+	android:name
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:16:22-72
+uses-permission#com.huawei.permission.external_app_settings.USE_COMPONENT
+ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:17:5-96
+	android:name
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:17:22-94
+uses-feature#android.hardware.location.gps
+ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:18:5-90
+	android:required
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:18:64-88
+	android:name
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:18:19-63
+activity#com.transistorsoft.locationmanager.activity.TSLocationManagerActivity
+ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:20:9-219
+	android:excludeFromRecents
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:20:104-137
+	android:launchMode
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:20:138-173
+	android:theme
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:20:174-217
+	android:name
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:20:19-103
+service#com.transistorsoft.locationmanager.service.TrackingService
+ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:21:9-93
+	android:name
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:21:18-91
+service#com.transistorsoft.locationmanager.service.LocationRequestService
+ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:22:9-100
+	android:name
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:22:18-98
+service#com.transistorsoft.locationmanager.service.HeartbeatService
+ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:23:9-94
+	android:name
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:23:18-92
+service#com.transistorsoft.locationmanager.service.ActivityRecognitionService
+ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:24:9-104
+	android:name
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:24:18-102
+service#com.transistorsoft.locationmanager.service.GeofencingService
+ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:25:9-95
+	android:name
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:25:18-93
+service#com.transistorsoft.locationmanager.service.BackgroundTaskService
+ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:26:9-99
+	android:name
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:26:18-97
+receiver#com.transistorsoft.locationmanager.scheduler.ScheduleAlarmReceiver
+ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:27:9-102
+	android:name
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:27:19-100
+service#com.transistorsoft.locationmanager.scheduler.ScheduleService
+ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:28:9-95
+	android:name
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:28:18-93
+service#com.transistorsoft.locationmanager.scheduler.ScheduleJobService
+ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:29:9-179
+	android:exported
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:29:97-120
+	android:permission
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:29:121-177
+	android:name
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:29:18-96
+receiver#com.transistorsoft.locationmanager.BootReceiver
+ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:30:9-35:20
+	android:name
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:30:19-81
+provider#com.transistorsoft.locationmanager.util.LogFileProvider
+ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:36:9-38:20
+	android:grantUriPermissions
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:36:185-219
+	android:authorities
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:36:90-159
+	android:exported
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:36:160-184
+	android:name
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:36:19-89
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:37:13-137
+	android:resource
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:37:75-135
+	android:name
+		ADDED from [tslocationmanager-3.0.38.aar] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/256082cb80bc54396bac860981c93911/AndroidManifest.xml:37:24-74
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/98f5a357a6a6399d5c6dc0219d00f475/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/98f5a357a6a6399d5c6dc0219d00f475/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/98f5a357a6a6399d5c6dc0219d00f475/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/98f5a357a6a6399d5c6dc0219d00f475/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/5e1b11ca64b1bfb90f668b8d0295c44b/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/5e1b11ca64b1bfb90f668b8d0295c44b/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/5e1b11ca64b1bfb90f668b8d0295c44b/AndroidManifest.xml:24:13-58
+activity#com.intentfilter.androidpermissions.PermissionsActivity
+ADDED from [com.intentfilter:android-permissions:0.1.8] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/89386fc9541296e66a56a2f07e85c51d/AndroidManifest.xml:12:9-15:59
+	android:excludeFromRecents
+		ADDED from [com.intentfilter:android-permissions:0.1.8] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/89386fc9541296e66a56a2f07e85c51d/AndroidManifest.xml:14:13-46
+	android:theme
+		ADDED from [com.intentfilter:android-permissions:0.1.8] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/89386fc9541296e66a56a2f07e85c51d/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from [com.intentfilter:android-permissions:0.1.8] /Users/ratkinson/.gradle/caches/transforms-2/files-2.1/89386fc9541296e66a56a2f07e85c51d/AndroidManifest.xml:13:13-83

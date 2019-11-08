@@ -1,5 +1,5 @@
 {
-  "name": "hello-world",
+  "name": "GeoSpikeApp",
   "version": "0.0.1",
   "description": "a React Native app bootstrapped with the Echobind template",
   "private": true,
